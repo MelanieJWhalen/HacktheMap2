@@ -11,6 +11,35 @@
         <local:MapViewModel x:Key="MapViewModel" />
     </Window.Resources>
     <Grid>
-        <esri:MapView Map="{Binding Map, Source={StaticResource MapViewModel}}" />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <ComboBox x:Name="CategoryCombo"
+                    Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                    Height="30"
+                    Margin="10" SelectionChanged="CategoryCombo_SelectionChanged"/>
+
+            <DataGrid x:Name="ProjectCategoryGrid"
+                      Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"
+                      HorizontalAlignment="Stretch"
+                      Margin="5"
+                      Height="200"/>
+        </Grid>
+        <esri:MapView x:Name="MyMapView" Grid.Column="1"/>
     </Grid>
+
 </Window>
