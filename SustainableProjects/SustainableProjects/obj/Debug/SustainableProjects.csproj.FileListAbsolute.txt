@@ -1,4 +1,3 @@
-C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\SustainableProjects.exe.config
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\resources\shaders\atmosphere_accurate_ps_4_0.cso
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\resources\shaders\atmosphere_accurate_vs_4_0.cso
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\resources\shaders\atmosphere_textured_ps_4_0.cso
@@ -172,6 +171,7 @@ C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProj
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\resources\shaders\water_draw_ps_4_0.cso
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\resources\shaders\water_draw_vs_4_0.cso
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\ArcGISRuntime100.2\client32\RuntimeCoreNet.dll
+C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\SustainableProjects.exe.config
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\SustainableProjects.exe
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\SustainableProjects.pdb
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\Esri.ArcGISRuntime.dll
@@ -212,11 +212,9 @@ C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProj
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
-C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects.csprojResolveAssemblyReference.cache
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\MainWindow.g.cs
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\App.g.cs
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects_Content.g.cs
-C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects_MarkupCompile.cache
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects_MarkupCompile.lref
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\MainWindow.baml
@@ -225,3 +223,4 @@ C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProj
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects.csproj.GenerateResource.Cache
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects.exe
 C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects.pdb
+C:\Users\surfe\Documents\Visual Studio 2015\Projects\HacktheMap2\SustainableProjects\SustainableProjects\obj\Debug\SustainableProjects.csprojResolveAssemblyReference.cache

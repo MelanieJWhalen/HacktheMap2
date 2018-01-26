@@ -84,8 +84,8 @@ namespace SustainableProjects
         {
             IList<string> categories;
             Field catField = _featCollectionTable.GetField("Category");
-            foreach (var feat in _featCollectionTable)
-                categories.Add(feat.GetAttributeValue(catField).ToString());      
+            //foreach (var feat in _featCollectionTable)
+              //  categories.Add(feat.GetAttributeValue(catField).ToString());      
         }
 
         private void CategoryCombo_SelectionChanged(object sender, SelectionChangedEventArgs e)
